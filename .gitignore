@@ -1,0 +1,2 @@
+# Ignore a directory used to tests and temporary files
+/temp/
