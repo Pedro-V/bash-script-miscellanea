@@ -9,7 +9,12 @@ Depois do repositório ter sido replicado na sua máquina, basta executar o nome
 Exemplo:
 
 ```bash
-cd ~/bash-script-miscellanea
+# Clone o repositório e acesse o diretório
+git clone https://github.com/Pedro-V/bash-script-miscellanea
+
+cd bash-script-miscellanea
+
+# Execute o script
 ./jogo-da-velha.sh
 ```
 
