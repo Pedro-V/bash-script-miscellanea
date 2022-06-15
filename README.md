@@ -1,4 +1,6 @@
-# Bash script miscellanea
+<h1 align="center">
+<img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg"
+alt="bash-logo">Bash script miscellanea</h1>
 
 Esse repositório contém vários scripts escritos em `bash` com diferentes objetivos. Tem desde um gerador de relatório de sistemas Unix até um jogo da velha. Alguns desses scripts são possíveis soluções para a [track de Bash no Exercism.com](https://exercism.org/tracks/bash).
 
