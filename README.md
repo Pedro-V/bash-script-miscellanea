@@ -8,10 +8,11 @@ Depois do repositório ter sido replicado na sua máquina, basta executar o nome
 
 Exemplo:
 
+```bash
+cd ~/bash-script-miscellanea
+./jogo-da-velha.sh
 ```
-$ cd ~/bash-script-miscellanea
-$ ./jogo-da-velha.sh
-```
+
 ## Lista dos scripts
 
 Abaixo segue o nome e um resumo sobre cada script do repositório.
