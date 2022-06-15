@@ -19,7 +19,7 @@ error () {
 # Retire o # da linha abaixo para executar a função raindrops
 #raindrops "$@"
 
-# Calcula a diferença de Hamming entre duas strannds de DNA
+# Calcula a diferença de Hamming entre duas strands de DNA
 hamming() {
     (( $# != 2 )) && error '<string1> <string2>'
     a=$1 b=$2

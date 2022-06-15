@@ -25,4 +25,4 @@ Abaixo segue o nome e um resumo sobre cada script do repositório.
 * `jogo-da-velha.sh` - Um jogo da velha bem simples, com dois modos: contra o computador e versus.
 * `loan-calc.sh` - Calculadora de empréstimo dado o montante, juros e duração.
 * `report_generator.sh` - Gera um relatório curto do seu sistema Unix. Caso um arquivo seja especificado na execução do programa, abre um arquivo HTML do relatório no `firefox`.
-* `acronym.sh` - Recebe uma palavra (ex: "Clube de Regatas do Flamengo") e converte para seu acrônimo (ex: "CRF").
+* `acronym.sh` - Recebe uma palavra (ex: "Clube de Regatas do Flamengo") e converte para seu acrônimo (ex: "CRF"). Também contém outras duas shell functions
