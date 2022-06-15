@@ -1,2 +1,6 @@
-# Ignore a directory used to tests and temporary files
+# Ignore a directory used for tests and temporary files
 /temp/
+
+# Ignore logs
+*.log
+*s
