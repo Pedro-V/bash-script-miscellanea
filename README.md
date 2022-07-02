@@ -16,6 +16,9 @@ git clone https://github.com/Pedro-V/bash-script-miscellanea
 
 cd bash-script-miscellanea
 
+# Mude as permissões, se necessário
+sudo chmod 755 jogo-da-velha.sh
+
 # Execute o script
 ./jogo-da-velha.sh
 ```
